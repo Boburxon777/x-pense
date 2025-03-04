@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --hind: "Hind Siliguri", serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.header {
+    margin-top: 30px;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+
+}
+
+
+
+
+.header_card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    column-gap: 12px;
+}
+
+
+
+.imgg {
+    width: 40px;
+    height: 40px;
+    top: 61px;
+    left: 165px;
+
+}
+
+
+.header_div2-title {
+    font-family: var(--hind);
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 21.85px;
+    letter-spacing: 0%;
+
+}
+
+.card_ul {
+    display: flex;
+    column-gap: 35px;
+}
+
+.card_li {
+    font-family: var(--hind);
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 17.1px;
+    letter-spacing: 0%;
+    color: #292830;
+}
+
+.header_card-link {
+    font-family: var(--hind);
+    font-weight: 400;
+    margin-top: 17px;
+    padding: 10px 20px 10px 20px;
+    border: 3px solid #FF7235;
+
+    border-radius: 10px;
+}
+
+.link {
+    color: #FF7235;
+
+}
+
+.header_card2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 122px;
+}
+
+.header_card-title {
+    font-family: var(--hind);
+    font-weight: 700px;
+    font-size: 96px;
+    line-height: 96px;
+    letter-spacing: 0%;
+    width: 540px;
+}
+
+.header_card-text {
+    font-family: var(--hind);
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 38.81px;
+    letter-spacing: 0%;
+    color: #BDBDBD;
+
+}
+
+.header_card-cards {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+
+
+.header_card-teleport {
+    font-family: var(--hind);
+
+    font-size: 24px;
+    line-height: 38.81px;
+    letter-spacing: 0%;
+    width: 225;
+    height: 75;
+    top: 606px;
+    left: 165px;
+    border-radius: 8px;
+    padding-top: 15px;
+    padding-right: 21px;
+    padding-bottom: 15px;
+    padding-left: 21px;
+    gap: 10px;
+    color: #ffffff;
+    background: #FF7235;
+
+}
+
+.text {
+    font-family: var(--hind);
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 38.81px;
+    letter-spacing: 0%;
+    color: #BDBDBD;
+
+}
+
+.main {
+    margin-top: 219px;
+}
+
+
+.main_card1 {
+
+    background: url("./img/Blob.png") no-repeat center center/cover;
+    background-color: #FF7235;
+    width: 100%;
+
+}
+
+.main_img2 {
+    padding-top: 200px;
+
+}
+
+.main_card {
+    display: flex;
+    column-gap: 110px;
+    margin-top: 50px;
+}
+
+.main_img {
+    width: 100px;
+    height: 500px;
+    margin-top: 60px;
+}
+
+.main_img {
+    width: 1235px;
+}
+
+.section {
+margin-top: 202px;
+}
+
+
+
+.section_cards {
+    display: flex;
+}
+
+.section_card {}
+
+.section_card-title {
+    font-family: var(--hind);
+    font-weight: 700px;
+    font-size: 96px;
+    line-height: 96px;
+    letter-spacing: 0%;
+
+}
+
+.section_card-text {
+    font-family: var(--hind);
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 38.81px;
+    letter-spacing: 0%;
+
+}
+
+.section_card-link {
+    color: #FF7235;
+    font-family: var(--hind);
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 0%;
+
+}
+
+.section2 {
+    margin-top: 200px;
+}
+
+
+
+.section2_cards {
+    display: flex;
+}
+
+
+
+.section2_card-title {
+    font-family: var(--hind);
+    font-weight: 700px;
+    font-size: 96px;
+    line-height: 96px;
+    letter-spacing: 0%;
+
+}
+
+.section2_card-text {
+    font-family: var(--hind);
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 38.81px;
+    letter-spacing: 0%;
+    margin-top: 50px;
+}
