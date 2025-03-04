@@ -186,7 +186,7 @@ ul {
 }
 
 .section {
-margin-top: 202px;
+    margin-top: 202px;
 }
 
 
@@ -252,5 +252,64 @@ margin-top: 202px;
     font-size: 24px;
     line-height: 38.81px;
     letter-spacing: 0%;
+    margin-top: 50px;
+}
+
+.section3 {}
+
+.container {}
+
+.section3_cards {
+    display: flex;
+
+
+}
+
+.section3_card {}
+
+.section3_card-title {
+    font-family: var(--hind);
+    font-weight: 700px;
+    font-size: 96px;
+    line-height: 96px;
+    letter-spacing: 0%;
+    width: 730px;
+}
+
+.section3_card-text {
+    font-family: var(--hind);
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 38.81px;
+    letter-spacing: 0%;
+    margin-top: 90px;
+
+
+}
+
+.section_cards-boxes {
+    display: flex;
+    align-items: center;
+}
+
+.section4 {}
+
+.section4-title {
+    font-family: var(--hind);
+    font-weight: 700px;
+    font-size: 96px;
+    line-height: 96px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.section4_cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iimmmggg{
+    margin-left: 698px;
     margin-top: 50px;
 }
